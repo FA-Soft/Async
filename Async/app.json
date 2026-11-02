@@ -13,11 +13,13 @@
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "29.0.0.0",
+  "runtime": "18.0",
+  "target": "OnPrem",
   "idRanges": [
     {
-      "from": 100000,
-      "to": 100099
+      "from": 75000,
+      "to": 75099
     }
   ],
   "features": [
