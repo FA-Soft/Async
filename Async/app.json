@@ -15,7 +15,6 @@
   "platform": "1.0.0.0",
   "application": "29.0.0.0",
   "runtime": "18.0",
-  "target": "OnPrem",
   "idRanges": [
     {
       "from": 75000,
